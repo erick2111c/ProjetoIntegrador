@@ -30,7 +30,7 @@
                 BorderBrush="#FF0C7272"
                 HorizontalAlignment="Left"
                 VerticalAlignment="Top"
-                Margin="51,416,0,0"/>
+                Margin="44,413,0,0" Click="Button_Click_1"/>
         </Grid>
     </Grid>
 </Page>
