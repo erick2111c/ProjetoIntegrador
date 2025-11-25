@@ -24,5 +24,31 @@ namespace WpfApp1
         {
             InitializeComponent();
         }
+
+        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+                string cpf = txtCPF.Text;
+                string senha = txtSENHA.Text;
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
+            if(txtCPF.Text == "015")
+            {
+            NavigationService.Navigate(new AreaDeCompra());
+            }
+            else
+            {
+                MessageBox.Show("Você não tem uma conta");
+                
+            }
+
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            //NavigationService.Navigate(new PaginaCadastro());
+        }
     }
 }

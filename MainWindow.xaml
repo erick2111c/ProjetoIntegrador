@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Frame Name= "MainFrame" NavigationUIVisibility="Hidden" Source="Cadastro.xaml"></Frame>
+        <Frame Name= "MainFrame" NavigationUIVisibility="Hidden" Source="FinalizarCompra.xaml"></Frame>
     </Grid>
 </Window>

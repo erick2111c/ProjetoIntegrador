@@ -13,6 +13,7 @@
     <None Remove="Fazer Login %283%29.png" />
     <None Remove="Fazer Login %285%29.png" />
     <None Remove="Fazer Login %286%29.png" />
+    <None Remove="Fazer Login %288%29.png" />
     <None Remove="Finalizar Compra[ %281%29.png" />
     <None Remove="Tela de Compra.png" />
   </ItemGroup>
@@ -22,6 +23,7 @@
     <Resource Include="Fazer Login (3).png" />
     <Resource Include="Fazer Login (5).png" />
     <Resource Include="Fazer Login (6).png" />
+    <Resource Include="Fazer Login (8).png" />
     <Resource Include="Finalizar Compra[ (1).png" />
     <Resource Include="Tela de Compra.png" />
   </ItemGroup>
