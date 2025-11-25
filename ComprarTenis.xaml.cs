@@ -16,12 +16,18 @@ using System.Windows.Shapes;
 namespace WpfApp1
 {
     /// <summary>
-    /// Interação lógica para PedidoConcluido.xam
+    /// Interação lógica para ComprarTenis.xam
     /// </summary>
-    public partial class PedidoConcluido : Page
+    public partial class ComprarTenis : Page
     {
-        public PedidoConcluido()
+        public ComprarTenis()
         {
+            InitializeComponent();
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }
